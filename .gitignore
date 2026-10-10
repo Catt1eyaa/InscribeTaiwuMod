@@ -1,1 +1,14 @@
 Plugins/*.dll
+.build/**/obj/
+.build/**/bin/
+.build/backup/
+
+decompiled/
+
+# ai stuff
+skills-lock.json
+.agents/skills
+.workbuddy-ai
+
+# no copyright stuff assets
+cover.png
