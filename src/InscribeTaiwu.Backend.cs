@@ -6,7 +6,7 @@ using TaiwuModdingLib.Core.Plugin;
 
 namespace InscribeTaiwu.Backend;
 
-[PluginConfig("InscribeTaiwu.Backend", "isekai gaycho", "1.0.0.0")]
+[PluginConfig("InscribeTaiwu.Backend", "isekai gaycho", "1.0.1.0")]
 public sealed class InscribeTaiwuBackendPlugin : TaiwuRemakePlugin
 {
     private const string HarmonyId = "isekai_gaycho.inscribe_taiwu.backend";

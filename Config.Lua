@@ -2,8 +2,8 @@ return {
 	Title = "铭刻太吾自己",
 	Source = 0,
 	FileId = 3763659793,
-	Version = "1.0.0.0",
-	GameVersion = "1.0.56",
+	Version = "1.0.1.0",
+	GameVersion = "1.1.23",
 	Author = "isekai gaycho",
 	Description = "给太吾自己加入铭刻按钮",
 	TagList = {
@@ -21,6 +21,27 @@ return {
 		},
 		[3] = {
 			Timestamp = 1783895250,
+		},
+		[4] = {
+			Timestamp = 1790771440,
+		},
+		[5] = {
+			Timestamp = 1790771481,
+		},
+		[6] = {
+			Timestamp = 1790771613,
+		},
+		[7] = {
+			Timestamp = 1790771689,
+		},
+		[8] = {
+			Timestamp = 1790771703,
+		},
+		[9] = {
+			Timestamp = 1790771756,
+		},
+		[10] = {
+			Timestamp = 1790771884,
 		},
 	},
 	ChangeConfig = false,
